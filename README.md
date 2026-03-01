@@ -1,7 +1,7 @@
 
 # Maroc Leasing – Marketplace (PFE 2025) – Demo Figma
 
-Ce dépôt présente uniquement la maquette Figma du projet réalisé dans le cadre de mon Stage PFE 2025 chez :contentReference[oaicite:0]{index=0}, filiale du groupe :contentReference[oaicite:1]{index=1}. Le code source complet est privé pour des raisons de confidentialité liées à l’entreprise.
+Ce dépôt présente uniquement la maquette Figma du projet réalisé dans le cadre de mon Stage PFE 2025 chez maroc leasing  filiale du groupe banque populaire , Le code source complet est privé pour des raisons de confidentialité liées à l’entreprise.
 
 ## Contexte du projet
 
